@@ -37,7 +37,7 @@ qdrant.upload_records(
     ]
 )
 
-# Search time for awesome wines
+# Search uruguay 
 hits = qdrant.search(
     collection_name="top_wines",
     query_vector=encoder.encode("A wine from Montevideo, Uruguay").tolist(),
