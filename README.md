@@ -1,6 +1,7 @@
-# rag-poc-qdrant-openai
+# AI PoCs
 
-RAG PoC using qdrant & openAI
+- RAG PoC using qdrant & openAI
+- nvidia rag course notebooks
 
 ## Getting started
 
